@@ -20,3 +20,6 @@ While building this weather application, I gained valuable experience and improv
 
 3.Environment Variables and Security: Gained knowledge on how to securely manage and use environment variables in a React application using dotenv. I also learned the importance of .gitignore to prevent sensitive information from being exposed in version control.
 
+Demo:
+![weather1](https://github.com/user-attachments/assets/83743b51-7492-4b3b-aeee-265e4735d194)
+![weather2](https://github.com/user-attachments/assets/45f81dea-aa7d-40f2-9f76-0fcdebc2dcbd)
